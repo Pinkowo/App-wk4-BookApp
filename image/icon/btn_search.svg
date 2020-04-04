@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__btn_search" transform="translate(25 24)">
+        <g id="prefix__ic_search_" data-name="ic_search">
+            <path id="prefix__square" d="M0 0H72V72H0z" class="prefix__cls-1"/>
+            <path id="prefix__path" d="M71.9 83.7h-2.4l-.9-.9a18.777 18.777 0 0 0 4.8-12.6 19.5 19.5 0 1 0-19.5 19.5 18.777 18.777 0 0 0 12.6-4.8l.9.9v2.4l15 15 4.5-4.5zm-18 0a13.5 13.5 0 1 1 13.5-13.5 13.444 13.444 0 0 1-13.5 13.5z" transform="translate(-25.4 -41.7)" style="fill:#fff"/>
+            <path id="prefix__slice" d="M0 0H120V120H0z" class="prefix__cls-1" transform="translate(-25 -24)"/>
+        </g>
+    </g>
+</svg>
