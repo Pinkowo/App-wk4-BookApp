@@ -1,0 +1,79 @@
+[
+    {
+        "coverUrl":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/book/book1.jpg?raw=true",
+        "title":"殺戮の天使 (1)",
+        "artist":"名束くだん, 真田まこと",
+        "intro":"在封鎖的大樓底層清醒的十三歲少女——瑞依。她失去了記憶，甚...",
+        "progressBar":1,
+        "progressText":"100% completed",
+        "color":"#b1b1b1",
+        "fontweight":"normal",
+        "btnWidth":200
+    },
+    {
+        "coverUrl":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/book/book2.jpg?raw=true",
+        "title":"殺戮の天使 (2)",
+        "artist":"名束くだん, 真田まこと",
+        "intro":"為了逃出地下樓層，失去記憶的少女瑞依與全身包裹著繃帶的殺人...",
+        "progressBar":0,
+        "progressText":"START READ",
+        "color":"red",
+        "fontweight":"bold",
+        "btnWidth":100
+    },
+    {
+        "coverUrl":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/book/book3.jpg?raw=true",
+        "title":"殺戮の天使 (3)",
+        "artist":"名束くだん, 真田まこと",
+        "intro":"瑞依與札克抵達了由瘋狂女看守凱西掌管的Ｂ３「懲罰」樓層。兩...",
+        "progressBar":0.5,
+        "progressText":"50% completed",
+        "color":"#b1b1b1",
+        "fontweight":"normal",
+        "btnWidth":200
+    },
+    {
+        "coverUrl":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/book/book4.jpg?raw=true",
+        "title":"殺戮の天使 (4)",
+        "artist":"名束くだん, 真田まこと",
+        "intro":"「──我說……你們差不多該告別彼此了吧？」女看守凱西以「懲...",
+        "progressBar":0.1,
+        "progressText":"10% completed",
+        "color":"#b1b1b1",
+        "fontweight":"normal",
+        "btnWidth":200
+    },
+    {
+        "coverUrl":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/book/book5.jpg?raw=true",
+        "title":"殺戮の天使 (5)",
+        "artist":"名束くだん, 真田まこと",
+        "intro":"來到槍決室後，札克與瑞依終於直接與凱西面對面。凱西把手槍交...",
+        "progressBar":0,
+        "progressText":"START READ",
+        "color":"red",
+        "fontweight":"bold",
+        "btnWidth":100
+    },
+    {
+        "coverUrl":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/book/book6.jpg?raw=true",
+        "title":"殺戮の天使 (6)",
+        "artist":"名束くだん, 真田まこと",
+        "intro":"瑞依想「幫忙」身受重傷的札克，便獨自往B2樓層深處邁進。在滿...",
+        "progressBar":0,
+        "progressText":"START READ",
+        "color":"red",
+        "fontweight":"bold",
+        "btnWidth":100
+    },
+    {
+        "coverUrl":"https://github.com/Pinkowo/App-wk4-BookApp/blob/master/image/book/book7.jpg?raw=true",
+        "title":"殺戮の天使 (7)",
+        "artist":"名束くだん, 真田まこと",
+        "intro":"瑞依在札克的房間找到刀子，並帶回B2。然而在那裡卻不見札克的...",
+        "progressBar":0,
+        "progressText":"START READ",
+        "color":"red",
+        "fontweight":"bold",
+        "btnWidth":100
+    }
+]
